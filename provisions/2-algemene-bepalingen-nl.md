@@ -6,7 +6,7 @@ lang: nl
 
 ## 1.1. Identiteit Dispuut Yorinf
 
-Dispuut Yorinf (hierna Yorinf) is een Onafhankelijk Herendispuut gevestigd te Enschede. Yorinf staat geregistreerd bij de Kamer van Koophandel onder nummer XXXXXXX. Yorinf is de verwerkingsverantwoordelijke.
+Dispuut Yorinf (hierna Yorinf) is een Onafhankelijk Herendispuut gevestigd te Enschede. Yorinf staat geregistreerd bij de Kamer van Koophandel onder nummer 72198184. Yorinf is de verwerkingsverantwoordelijke.
 
 ## 1.2. Rechten betrokkenen
 
@@ -55,16 +55,13 @@ De personen ontlenen rechten aan de AVG met betrekking tot de verwerking, opslag
 
 ## 1.4. Profilering
 
-Yorinf gebruikt de studiestatus en de lidmaatschapstatus van personen om een selectie te maken in de informatie die gedeeld wordt met deze personen.
-
-## 1.5. Anonieme Statistieken
-
-**_XXX_**
+Yorinf gebruikt de studiestatus en de lidmaatschapstatus van personen om een selectie te maken in de informatie die gedeeld wordt met deze personen en leidt van deze statussen gerelateerde plichten zoals contributie en vrijwillige bijdrage af.
 
 ## 1.6. Toegang tot gegevens
 
-**_XXX_**
-Er is echt heel veel aan gegevens dat gewoon publiek staat, dat is wel jammer.
+Senaat alles
+Commissie in de hoedanigheid van de commissie
+Overige leden tot 'publieke' gegevens
 
 ## 1.7. Toelichting Rechtsgronden
 
@@ -74,13 +71,13 @@ De volgende hoofdstukken geven een overzicht van de verwerkingsactiviteiten van 
 
 > **a.** de betrokkene heeft toestemming gegeven voor de verwerking van zijn persoonsgegevens voor een of meer specifieke doeleinden;
 
-_Het is toegestaan persoonsgegevens te verwerken als de betrokkene toestemming heeft gegeven. Deze rechtsgrond gebruikt Yorinf ter verantwoording als het niet onder een andere rechtsgrond valt._
+_Het is toegestaan persoonsgegevens te verwerken als de betrokkene toestemming heeft gegeven voor de specifieke verwerking. Deze rechtsgrond gebruikt Yorinf ter verantwoording als het niet onder een andere rechtsgrond valt._
 
 ---
 
 > **b.** de verwerking is noodzakelijk voor de uitvoering van een overeenkomst waarbij de betrokkene partij is, of om op verzoek van de betrokkene vóór de sluiting van een overeenkomst maatregelen te nemen;
 
-_Deze rechtsgrond houdt in dat Yorinf persoonsgegevens mag verwerken als dat noodzakelijk is voor een overeenkomst._
+_Deze rechtsgrond houdt in dat Yorinf persoonsgegevens mag verwerken als dat noodzakelijk is voor een overeenkomst zoals de lidmaatschapsovereenkomst en de bepalingen in het lustrumreisspaarplan._
 
 ---
 
@@ -98,7 +95,7 @@ _Als het leven van een of meerdere personen op het spel staat is het toegestaan 
 
 > **e.** –
 
-_(Deze rechtsgrond is bedoeld voor overheidsinstanties en kan door Inter-Actief nooit gebruikt worden.)_
+_(Deze rechtsgrond is bedoeld voor overheidsinstanties en kan door Yorinf nooit gebruikt worden.)_
 
 ---
 
