@@ -13,8 +13,11 @@ Om de correspondentie met leden succesvol te laten verlopen en misstanden te voo
 
 ### 2.1.2 E-mailadres
 
+_Rechtsgrond f, doorgifte aan Google in verband met administratie mailadressen en -aliassen_  
+Yorinf heeft het beheer van de vereniging mailadressen en -aliassen van leden, commissies en andere groepen uitbesteed aan Google. Yorinf deelt de mailadressen en namen van leden van deze groepen met Google door middel van GSuite.
+
 _Rechtsgrond b, minimale uitvoering lidmaatschapsovereenkomst_  
-Het mailadres wordt opgeslagen als terugval contact mogelijkheid van een lid. Het Yorinf alias (zie XXX) wordt gebruikt als primair contact adres.
+Het Yorinf email adres onder het vorige punt dient als primaier mailadres. Daarnaast verwerkt Yorinf een prive emailadres als terugval communicatie adres.
 
 _Rechtsgrond f, belangrijke communicatie_  
 Als laatste zal dit communicatiemiddel worden gebruikt voor communicatie waarbij het belang van de vereniging dermate groot is dat communicatie naar de personen mogelijk moet zijn. Dit kan in het geval zijn van communicatie met betrekking tot bijvoorbeeld nieuwe leden, activiteiten en vergaderingen.
